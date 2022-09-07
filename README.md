@@ -4,8 +4,7 @@ This repository contains the Jupyter Notebooks that we created for the competiti
 
 The competition was divided into three challenges, each one of them cover a different topic of the course:
 - Image Classification
-- Image Segmentation
-- Visual Question Answering
+- Time Series Forecasting
 
 ## Image Classification
 [![CodaLab](https://img.shields.io/badge/open-CodaLab-green)](https://codalab.lisn.upsaclay.fr/competitions/226)
