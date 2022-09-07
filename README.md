@@ -2,7 +2,7 @@
 
 This repository contains the Jupyter Notebooks that we created for the competition hosted by the [*Artificial Neural Network and Deep Learning*](http://chrome.ws.dei.polimi.it/index.php?title=Artificial_Neural_Networks_and_Deep_Learning) course at [Politecnico di Milano](https://www.polimi.it/) in the academic year 2021-2022.
 
-The competition was divided into three challenges, each one of them cover a different topic of the course:
+The competition was divided into two challenges, each one of them cover a different topic of the course:
 - Image Classification
 - Time Series Forecasting
 
