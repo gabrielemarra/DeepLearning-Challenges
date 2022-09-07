@@ -18,7 +18,7 @@ The goal of the challenge is to classify images of
 
 <img src="" width="500"/>
 
-[Here](./image_classification/finale_report_image_classification.pdf) is a complete description on how we approached the challenge and how we got our best model.
+[Here](./image_classification/final_report_image_classification.pdf) is a complete description on how we approached the challenge and how we got our best model.
 
 ## Time Series Forecasting
 [![CodaLab](https://img.shields.io/badge/open-CodaLab-green)](https://codalab.lisn.upsaclay.fr/competitions/621)
@@ -30,7 +30,7 @@ The goal of the challenge is to
 **Evaluation**:
 
 
-[Here](./time_series_forecasting/finale_report_time_series_forecasting.pdf) is a complete description on how we approached the challenge and how we got our best model.
+[Here](./time_series_forecasting/final_report_time_series_forecasting.pdf) is a complete description on how we approached the challenge and how we got our best model.
 
 
 ## Group Members
