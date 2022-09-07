@@ -1,4 +1,4 @@
-# Artificial Neural Networks and Deep Learning Competition
+# Artificial Neural Networks & Deep Learning Competition
 
 This repository contains the Jupyter Notebooks that we created for the competition hosted by the [*Artificial Neural Network and Deep Learning*](http://chrome.ws.dei.polimi.it/index.php?title=Artificial_Neural_Networks_and_Deep_Learning) course at [Politecnico di Milano](https://www.polimi.it/) in the academic year 2021-2022.
 
